@@ -1,0 +1,15 @@
+1.1 - Tipo primitivo
+
+Enunciado: Determine qual é o tipo primitivo de informação presente nas sentenças.
+
+Resposta:
+
+a) `"Pare!"` -> *Cadeia/Literal* / *2* -> *Inteiro*
+
+b) *5* -> *Inteiro*
+
+c) *3,5* -> *Real*
+
+d) `"Preserve o meio ambiente"` -> *Literal* / *100,59* -> *Real*
+
+e) *18* -> *Inteiro* / *57,3* -> *Real* / *100* -> *Inteiro*
