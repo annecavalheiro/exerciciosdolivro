@@ -1,0 +1,7 @@
+4. - Torre de Hanói com 4 discos
+
+Enunciado:
+A partir do exercício 1.3, amplie a solução para completar a troca dos discos da torre A para a torre B, considerando 4 discos.
+
+Resposta enxuta:
+Origem A, Destino B, Auxiliar C. São 15 movimentos $(2^4 - 1)$:
