@@ -1,0 +1,15 @@
+3. - Troca de pneu furado
+
+Enunciado:
+Elabore algoritmo para trocar pneu furado considerando:
+a) trocar traseiro esquerdo;
+b) trocar traseiro esquerdo verificando antes o estepe;
+c) verificar se existe pneu furado, verificar estepe e trocar o correto. Faça refinamento do anterior.
+
+Resposta:
+
+a) Afrouxar traseiro esq. -> Levantar no macaco -> Tirar pneu -> Colocar estepe -> Abaixar.
+
+b) Verificar estepe. Se ruim -> parar. Se bom -> fazer item a.
+
+c) Para cada um dos 4 pneus: se estiver furado -> verificar estepe. Se estepe bom -> troca aquele pneu e finaliza.
