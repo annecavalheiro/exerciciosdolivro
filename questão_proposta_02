@@ -1,0 +1,7 @@
+2. - Problema dos 3 barris
+
+*Enunciado:*
+João tem três barris. No barril A, que está vazio, cabem 8 litros. No barril B cabem 5 e no C cabem 3. B e C estão cheios. O que deve ele fazer para deixar os barris A e B com 4 litros cada e o C vazio?
+
+*Resposta:*
+Estado = (A, B, C)
