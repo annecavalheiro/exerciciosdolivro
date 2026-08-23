@@ -1,0 +1,23 @@
+5. - Calculadora só com + e -
+
+*Enunciado:*
+Calculadora com teclas de divisão e multiplicação inoperantes. Resolver usando apenas adição e subtração:
+a) 12 x 4, b) 23 x 11, c) 10 ÷ 2, d) 175 ÷ 7, e) 2^8
+
+*Resposta :*
+
+*a) 12 x 4 = 48*
+> Somar 12 quatro vezes: 12+12+12+12
+
+*b) 23 x 11 = 253*
+> Somar 23 onze vezes.
+
+*c) 10 ÷ 2 = 5*
+> Subtrair 2 de 10 até zerar e contar quantas vezes: 10-2-2-2-2-2 = 0 -> 5 vezes.
+
+*d) 175 ÷ 7 = 25*
+> Subtrair 7 de 175 até zerar: conta 25 subtrações.
+
+*e) 2^8 = 256*
+> Multiplicação por adição repetida: 2x2=4, 4+4+4+4=8, 8x8=64 por soma, 64x4=256 por soma.
+> Ou: somar 2, oito vezes em cascata: 2x2, resultado x2, resultado x2
