@@ -1,0 +1,16 @@
+### Exercício proposto  1 - Tópicos Preliminares
+
+**Enunciado:**
+Dado o trecho:
+```portugol
+inteiro: X, Y;
+real: Z;
+leia (X);
+escreva (X, "elevado ao cubo =", pot(x,3));
+leia (Y);
+escreva (X + Y);
+Z <- X/Y;
+escreva (Z);
+Z <- Z + 1;
+X <- (Y + X) mod 2;
+escreva (X);
