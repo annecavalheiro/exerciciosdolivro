@@ -1,0 +1,14 @@
+2.3 - Erros na declaração
+
+Enunciado: Ache os erros.
+inteiro: Endereço, NFilhos;
+caracter: Idade, X;
+real: XPTO, C, Peso, R$;
+lógico: Lâmpada, C;
+Resposta :
+
+1.  Endereço - inválido, tem acento e ç. E deveria ser caractere, não inteiro.
+2.  Idade - tipo errado, deveria ser inteiro.
+3.  R$ - inválido, símbolo $ não pode.
+4.  Lâmpada - inválido, acento.
+5.  C - duplicado, declarado como real e depois como lógico.
