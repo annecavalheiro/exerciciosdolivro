@@ -1,0 +1,15 @@
+5.1 - Erros de atribuição
+
+*Enunciado:* `lógico: A; real: B,C; inteiro: D;`
+
+*Resposta :*
+
+1.  `A <- B = C;` -> *CORRETO*. `B=C` é comparação lógica, resultado cabe em A lógico.
+
+2.  `D <- B;` -> *ERRO* de tipo. D é inteiro e B é real. Não pode jogar real em inteiro.
+
+3.  `C + 1 <- B + C;` -> *ERRO* de sintaxe. Lado esquerdo da atribuição tem que ser só uma variável, nunca expressão.
+
+4.  `C e B <- 3.5;` -> *ERRO* duplo. Lado esquerdo não é variável e `C e B` é inválido, C e B são reais e `e` é operador lógico.
+
+5.  `B <- pot(6,2)/3 <= rad(9) * 4` -> *ERRO* de tipo. Direita dá `12 <= 12 = V` (lógico) e B é real. Lógico não cabe em real.
