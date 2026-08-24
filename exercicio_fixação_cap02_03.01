@@ -1,0 +1,25 @@
+3.1 - Expressões aritméticas
+
+Enunciado: A=5, B=10, C=-8, D=1,5. Calcular.
+
+*Resposta :*
+
+`rad=raiz, pot=potência, div=div inteira, mod=resto`
+
+*a)* `2 _ A mod 3 - C`
+> `10 mod 3 - (-8) = 1 + 8 = *9*`
+
+*b)* `rad(-2 _ C) div 4`
+> `rad(16) div 4 = 4 div 4 = *1*`
+
+*c)* `((20 div 3) div 3) + pot(8,2)/2`
+> `(6 div 3) + 64/2 = 2 + 32 = *34*`
+
+*d)* `(30 mod 4 _ pot(3,3)) _ -1`
+> `(2 _ 27) _ -1 = *-54*`
+
+*e)* `pot(-C,2) + (D _ 10)/A`
+> `64 + 15/5 = *67*`
+
+*f)* `rad(pot(A,B/A)) + C _ D`
+> `rad(25) + (-12) = 5 -12 = *-7*`
