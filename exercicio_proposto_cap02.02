@@ -1,0 +1,20 @@
+### Exercício 2 - Entrada, Saída e Processamento
+
+**Enunciado:** Cite e discorra sobre três exemplos do seu dia-a-dia nos quais você encontra explicitados entrada, saída e processamento.
+
+**Resolução:**
+
+1. **Caixa Eletrônico**
+   - Entrada: cartão, senha e valor
+   - Processamento: valida senha e saldo
+   - Saída: dinheiro e comprovante
+
+2. **Micro-ondas**
+   - Entrada: alimento e tempo
+   - Processamento: aquece o alimento
+   - Saída: comida pronta + bip
+
+3. **Calculadora**
+   - Entrada: números e operação
+   - Processamento: calcula
+   - Saída: resultado na tela
